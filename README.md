@@ -1,12 +1,11 @@
 # project-html-Css-Bootstrap-Route
 
-## 📂 المشاريع
+## 🚀 Live Projects
 
-| #  | المشروع                        | Live Demo |
-|----|--------------------------------|-----------|
-
-| 01 | Foki_r (HTML & CSS)            | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Foki_r/) |
-| 02 | Family Backery (HTML & CSS)    | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Family_Backery/) |
-| 03 | Misr Travels (HTML & CSS)      | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Misr%20Travels/) |
-| 04 | Personal Data (HTML & CSS)     | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Personal%20Data/) |
+| #  | Project Name        | Skills     | Live Demo |
+|----|---------------------|------------|-----------|
+| 01 | 🍞 Family Bakery    | HTML, CSS  | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Family_Backery/) |
+| 02 | 🎨 Foki_r           | HTML, CSS  | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Foki_r/) |
+| 03 | ✈️ Misr Travels     | HTML, CSS  | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Misr%20Travels/) |
+| 04 | 👤 Personal Data    | HTML, CSS  | [Live Demo](https://mohamedsalam5a.github.io/project-html-Css-Bootstrap-Route/Personal%20Data/) |
 
