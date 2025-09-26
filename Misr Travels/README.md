@@ -8,9 +8,8 @@ It’s styled with **CSS** to look clean and professional.
 ---
 
 ## 🛠️ Skills Used
-- HTML5  
-- CSS3 (Styling + Layout)  
-- HTML Tables  
+- HTML Tables 
+- CSS (Styling + Layout) 
 
 ---
 
